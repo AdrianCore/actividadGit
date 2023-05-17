@@ -1,0 +1,12 @@
+Importante!!!
+
+No subas cambios cada 5 minutos
+
+Tus commits deben ser coherentes y subir cambios cuando consideres que es necesario
+
+Trata de que cada commit sea relacionado para una acciòn en especìfico
+
+Ejemplo:
+
+Commit 1 - Primer Commit
+Commit 2 - Se agrega clase controladora de clientes
