@@ -10,3 +10,4 @@ Ejemplo:
 
 Commit 1 - Primer Commit
 Commit 2 - Se agrega clase controladora de clientes
+Commit 3 - Persona B modifica archivos
